@@ -22,17 +22,17 @@ The project deploys a complete Docker Compose stack on a single Linux server:
 
 It is intended for personal, family, and private deployments. Public registration is disabled by default; accounts are created by an administrator through the `user` and `admin` commands.
 
-## Tested systems
+## Tested on fresh VPS deployments
 
-| Operating system | Clean image | Fully updated | Voice/Video | Status |
-|---|:---:|:---:|:---:|:---:|
-| Debian 13.6 | ✅ | ✅ | ✅ | Passed |
-| Ubuntu 24.04 LTS | ✅ | ✅ | ✅ | Passed |
-| Ubuntu 26.04 LTS | ✅ | ✅ | ✅ | Passed |
+### Operating systems
 
-Verified:
+- ✔ Debian 13.6
+- ✔ Ubuntu 24.04 LTS
+- ✔ Ubuntu 26.04 LTS
 
-- ✔ Clean installation
+### Verified functionality
+
+- ✔ Full installation
 - ✔ Administrator creation
 - ✔ User creation
 - ✔ User discovery
@@ -40,9 +40,9 @@ Verified:
 - ✔ Push notifications
 - ✔ Voice calls
 - ✔ Video calls
-- ✔ Backup and restore
-
-The complete installation flow has been validated on live VPS deployments. Testing covered installation, TLS, health checks, Matrix federation, account creation, messaging, push notifications, voice and video calls, backup, and restore.
+- ✔ Matrix Federation
+- ✔ Backup
+- ✔ Restore
 
 Other recent Debian and Ubuntu releases are expected to work but have not been validated.
 
