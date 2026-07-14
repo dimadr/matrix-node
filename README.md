@@ -30,6 +30,18 @@ It is intended for personal, family, and private deployments. Public registratio
 | Ubuntu 24.04 LTS | ✅ | ✅ | ✅ | Passed |
 | Ubuntu 26.04 LTS | ✅ | ✅ | ✅ | Passed |
 
+Verified:
+
+- ✔ Clean installation
+- ✔ Administrator creation
+- ✔ User creation
+- ✔ User discovery
+- ✔ Direct messaging
+- ✔ Push notifications
+- ✔ Voice calls
+- ✔ Video calls
+- ✔ Backup and restore
+
 The complete installation flow has been validated on live VPS deployments. Testing covered installation, TLS, health checks, Matrix federation, account creation, messaging, push notifications, voice and video calls, backup, and restore.
 
 Other recent Debian and Ubuntu releases are expected to work but have not been validated.
