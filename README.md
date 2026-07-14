@@ -2,7 +2,7 @@
 
 [![Matrix](https://img.shields.io/badge/Matrix-Synapse-0DBD8B?logo=matrix&logoColor=white)](https://matrix.org/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/compose/)
-[![Debian](https://img.shields.io/badge/Debian-13.5-A81D33?logo=debian&logoColor=white)](https://www.debian.org/)
+[![Debian](https://img.shields.io/badge/Debian-13.6-A81D33?logo=debian&logoColor=white)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04%20%7C%2026.04-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![LiveKit](https://img.shields.io/badge/LiveKit-MatrixRTC-111111)](https://livekit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
