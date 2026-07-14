@@ -76,7 +76,7 @@ sudo bash ./matrix-node.sh restore [ARCHIVE]
 
 Supported and validated operating systems:
 
-- Debian 13.5
+- Debian 13.6
 - Ubuntu 24.04 LTS
 - Ubuntu 26.04 LTS.
 
