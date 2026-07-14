@@ -77,7 +77,7 @@ sudo bash ./matrix-node.sh restore [ARCHIVE]
 Рекомендуемая конфигурация:
 
 ```text
-Supported: Debian 13.5, Ubuntu 24.04 LTS, Ubuntu 26.04 LTS
+Supported: Debian 13.6, Ubuntu 24.04 LTS, Ubuntu 26.04 LTS
 CPU: 2 vCPU
 RAM: 2 GB+
 Disk: 20 GB+
